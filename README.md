@@ -2,50 +2,40 @@
 Gathering useful resources
 
 describtion:
-保存我所整理的实用工具，分享给大家，包括但不限于网站、windows软件、android软件、ios软件、mac软件，欢迎大家给star
-
 Save the practical tools I have sorted out and share them with you, including but not limited to websites, windows software, Android software, IOS software, MAC software. Welcome to Star.
+
+保存我所整理的实用工具，分享给大家，包括但不限于网站、windows软件、android软件、ios软件、mac软件，欢迎大家给star
 
 website：
 
 蓝灯：
-
 website：http://www.getlandeng18.org/article.php?id=47
 
 去转盘
-
 website：http://www.quzhuanpan.com/
 
 拷贝兔
-
 website：https://cp.ifval.com/
 
 wikihow
-
 website：https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
 
 零时邮箱：
-
 website：http://24mail.chacuo.net/
 
 阿里矢量图
-
 website：https://www.iconfont.cn/
 
 觅元素
-
 website：http://www.51yuansu.com/
 
 花瓣
-
 website：http://huaban.com/
 
 dribbble
-
 website：https://dribbble.com/
 
 pixabay
-
 websie：https://pixabay.com/
 
 windows software：
