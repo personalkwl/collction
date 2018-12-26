@@ -33,6 +33,10 @@ UI设计图原稿：dribbble
 
 高清图片搜索：pixabay
 
+文档检索：嚓哩文库
+
+图床：微博图传
+
 windows software：
 
 软件安装卸载：Total+Uninstall
