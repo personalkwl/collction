@@ -9,7 +9,7 @@ Save the practical tools I have sorted out and share them with you, including bu
 website：
 
 lantern：免费、简单、好用的VPN
-website：http://www.getlandeng18.org/article.php?id=47
+website：http://www.getlandeng18.org
 
 去转盘：超强资源搜索引擎，啥都有
 website：http://www.quzhuanpan.com/
@@ -18,7 +18,7 @@ website：http://www.quzhuanpan.com/
 website：https://cp.ifval.com/
 
 wikihow：遇到不会的问题，就找它了
-website：https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
+website：https://zh.wikihow.com/
 
 零时邮箱：注册神器有木有
 website：http://24mail.chacuo.net/
