@@ -8,35 +8,30 @@ Save the practical tools I have sorted out and share them with you, including bu
 
 website：
 
-lantern：
+lantern：免费、简单、好用的VPN
 website：http://www.getlandeng18.org/article.php?id=47
 
-去转盘
+去转盘：超强资源搜索引擎，啥都有
 website：http://www.quzhuanpan.com/
 
-拷贝兔
+拷贝兔：多端传文字，文件等，类似QQ文件助手
 website：https://cp.ifval.com/
 
-wikihow
+wikihow：遇到不会的问题，就找它了
 website：https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
 
-零时邮箱：
+零时邮箱：注册神器有木有
 website：http://24mail.chacuo.net/
 
-阿里矢量图
-website：https://www.iconfont.cn/
+图片搜索：花瓣
 
-觅元素
-website：http://www.51yuansu.com/
+小图片、头像等：阿里矢量图
 
-花瓣
-website：http://huaban.com/
+高清图片：觅元素
 
-dribbble
-website：https://dribbble.com/
+UI设计图原稿：dribbble
 
-pixabay
-websie：https://pixabay.com/
+高清图片搜索：pixabay
 
 windows software：
 
