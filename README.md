@@ -39,6 +39,8 @@ UI设计图原稿：dribbble
 
 windows software：
 
+动图录制+制作：GIFcam
+
 软件安装卸载：Total+Uninstall
 
 图片去水印 ：Inpaint
