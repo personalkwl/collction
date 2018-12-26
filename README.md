@@ -8,7 +8,7 @@ Save the practical tools I have sorted out and share them with you, including bu
 
 website：
 
-蓝灯：
+lantern：
 website：http://www.getlandeng18.org/article.php?id=47
 
 去转盘
