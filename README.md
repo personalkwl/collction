@@ -3,14 +3,13 @@ Gathering useful resources
 
 ==================================================================
 
-7W张妹子图七牛下载地址：
+7W张妹子图下载地址：
 
+【包括：爬虫、数据库、妹子图BT】【手慢无、你懂的】
 
-  
-明天弄~~~~~
-  
+https://www.lanzous.com/i2qh6ne
+
 ==================================================================
-
 
 describtion:
 Save the practical tools I have sorted out and share them with you, including but not limited to websites, windows software, Android software, IOS software, MAC software. Welcome to Star.
@@ -19,11 +18,11 @@ Save the practical tools I have sorted out and share them with you, including bu
 
 website：
 
-lantern：免费、简单、好用的VPN
-website：http://www.getlandeng18.org
-
 去转盘：超强资源搜索引擎，啥都有
 website：http://www.quzhuanpan.com/
+
+lantern：免费、简单、好用的VPN
+website：http://www.getlandeng18.org
 
 拷贝兔：多端传文字，文件等，类似QQ文件助手
 website：https://cp.ifval.com/
