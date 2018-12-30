@@ -10,27 +10,39 @@ Gathering useful resources
 https://www.lanzous.com/i2qh6ne
 
 ==================================================================
-
 describtion:
-Save the practical tools I have sorted out and share them with you, including but not limited to websites, windows software, Android software, IOS software, MAC software. Welcome to Star.
-
-保存我所整理的实用工具，分享给大家，包括但不限于网站、windows软件、android软件、ios软件、mac软件，欢迎大家给star
+Save the practical tools I have sorted out and share them with you, including but not limited to websites, windows software, Android software, IOS software, MAC software. Welcome to Star.（保存我所整理的实用工具，分享给大家，包括但不限于网站、windows软件、android软件、ios软件、mac软件，欢迎大家给star）
 
 website：
 
-去转盘：超强资源搜索引擎，啥都有
+去转盘：
+
+超强资源搜索引擎，什么艳照门、优衣库、借贷宝等再百度网盘中都有，只是藏得比较深而已，使用网盘搜索引擎查找起来就方便多了！
+
 website：http://www.quzhuanpan.com/
 
-lantern：免费、简单、好用的VPN
+lantern：
+
+一键翻墙，免费、简单、好用的VPN软件
+
 website：http://www.getlandeng18.org
 
-拷贝兔：多端传文字，文件等，类似QQ文件助手
+拷贝兔：
+
+多端传文字，文件等，类似QQ文件助手
+
 website：https://cp.ifval.com/
 
-wikihow：遇到不会的问题，就找它了
+wikihow：
+
+遇到不会的问题，就找它了
+
 website：https://zh.wikihow.com/
 
-零时邮箱：注册神器有木有
+零时邮箱：
+
+注册神器有木有
+
 website：http://24mail.chacuo.net/
 
 图片搜索：花瓣
