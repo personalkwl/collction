@@ -6,6 +6,7 @@ Gathering useful resources
 7W张妹子图下载地址：
 
 【包括：爬虫、数据库、妹子图BT】【手慢无、你懂的】
+妹子图压缩包解压密码：welcome_sex
 
 https://www.lanzous.com/i2qh6ne
 
