@@ -11,6 +11,15 @@ Gathering useful resources
 https://www.lanzous.com/i2qh6ne
 
 ==================================================================
+
+【转盘助手油猴版】网盘链接状态实时判断+资源搜索网站导航++
+
+油猴脚本：https://greasyfork.org/zh-CN/scripts/375893
+
+功能介绍：1、网盘链接状态判断：实时判断网页中百度网盘链接状态，节约时间，方便又快捷；2、资源搜索网站导航：脚本会在百度、文库、360、搜狗、豆瓣等网站的合适位置推荐各类资源搜索网站，方便对资源的检索。如：豆瓣电影，就会实时的推荐电影相关资源网站，推荐网址长期维护更新。“资源搜索网站导航”做您资源查找的好帮手！
+
+==================================================================
+
 describtion:
 Save the practical tools I have sorted out and share them with you, including but not limited to websites, windows software, Android software, IOS software, MAC software. Welcome to Star.（保存我所整理的实用工具，分享给大家，包括但不限于网站、windows软件、android软件、ios软件、mac软件，欢迎大家给star）
 
